@@ -4,7 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
-Diese Website wurde im Rahmen einer Lehrveranstaltung an der Universität Wien erstellt.
+Diese Website wurde im Rahmen einer Lehrveranstaltung an der UniversitÃ¤t Wien erstellt.
 
 ### Verantwortlich
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-permalink: /Impressum/
+permalink: /impressum/
 ---
 
 Diese Website wurde im Rahmen einer Lehrveranstaltung an der Universität Wien erstellt.

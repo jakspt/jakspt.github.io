@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Impressum
+permalink: /Impressum/
 ---
 
-Some information about you!
+Diese Website wurde im Rahmen einer Lehrveranstaltung an der Universität Wien erstellt.
 
-### More Information
+### Verantwortlich
 
-A place to include any other types of information that you'd like to include about yourself.
+Jakob Sapototzky
 
-### Contact me
+### Kontakt
 
-[email@domain.com](mailto:email@domain.com)
+2225 Zistersdorf
+[jakob.sapototzky@gmx.at](mailto:jakob.sapototzky@gmx.at)
